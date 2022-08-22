@@ -18,7 +18,7 @@ npm start
 
 ---
 
-### Demo Project [https://react-native_math-plotlyjs.vercel.app]
+### Demo Project [https://react-native-math-plotlyjs.vercel.app]
 
 ---
 
